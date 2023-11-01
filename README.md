@@ -1,4 +1,4 @@
 # git-demo
 This is my first Git Repository
 <br/>
-Author: Mo Haris Nomani
+Author: Mo Haris (Nomani)
